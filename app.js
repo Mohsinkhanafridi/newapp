@@ -11,7 +11,6 @@ var budgetController = (function () {
         this.description = description;
         this.value = value;
         this.percentage = -1;
-
     };
     
     // add the method to the prototype of expense so each object will inherit the method
